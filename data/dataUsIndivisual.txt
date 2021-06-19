@@ -1,0 +1,6 @@
+BYND, 3
+MQ, 3
+JMIA, 2
+DAL, 1
+PLUG, 1
+AAL, 1

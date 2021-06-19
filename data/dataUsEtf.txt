@@ -1,0 +1,13 @@
+IVV, 3
+QQQ, 3
+VWO, 6
+VYM, 3
+VXUS, 4
+IEMG, 2
+VTWO, 1
+VGK, 1
+BND, 3
+TLT, 3
+LQD, 1
+GLD, 2
+GLDM, 1
